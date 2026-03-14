@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>TenisStore</title>
+<title>Kukes Shop - Main page</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
 
@@ -22,7 +22,7 @@
 <nav class="navbar navbar-expand-lg navbar-dark navbar-blur fixed-top">
 <div class="container">
 
-<a class="navbar-brand fw-bold">TenisStore</a>
+<a class="navbar-brand fw-bold">Kuke's Shop</a>
 
 <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#menu">
 <span class="navbar-toggler-icon"></span>
@@ -123,7 +123,7 @@ Pensados para quienes quieren avanzar más rápido.
 </p>
 
 </div>
-
+    
 </section>
 
 
@@ -132,7 +132,7 @@ Pensados para quienes quieren avanzar más rápido.
 <footer>
 
 <p>
-© 2026 TenisStore
+© 2026 Kuke's Shop
 </p>
 
 </footer>
